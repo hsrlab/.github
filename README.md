@@ -1,4 +1,4 @@
-# Hardware Security Research Labs @ Oregon State University
+# Hardware Security Research Lab @ Oregon State University
 
 # Maintained Open Source Projects
 
