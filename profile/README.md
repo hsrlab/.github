@@ -4,8 +4,14 @@ Hi there 👋
 
 ## Maintained Open Source Projects
 
+* https://github.com/decryptofy/scarr
+
 ## Archived Artifacts for Research Papers
 
+This category contains unmaintained projects to complement our research papers. This practice has become more popular, to ensure that results can be reproduced or improved more easily. Please be aware, that these projects are not guaranteed to remain functional due to external dependencies.
+
+* https://github.com/hsrlab/scarr
+* https://github.com/hsrlab/awgsomefi
 
 <!--
 
